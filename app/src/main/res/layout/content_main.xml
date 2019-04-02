@@ -10,9 +10,10 @@
 
     <!-- The TextView element can be replaced by a WebView element -->
     <TextView
+        android:id="@+id/textView"
         android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Hello World!"
+        android:layout_height="21dp"
+        android:text="I am Abbonator! I'll be back!"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
